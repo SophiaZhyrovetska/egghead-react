@@ -1,1 +1,1 @@
-# egghead-react
+# Egghead react course
